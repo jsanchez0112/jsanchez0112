@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsanchez0112
+👋 Hi, I’m @jsanchez0112
 
 
 Welcome to my Github.
