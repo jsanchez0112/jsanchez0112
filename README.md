@@ -1,4 +1,4 @@
-👋 Hi, I’m Jacob!
+Hi, I’m Jacob!
 
 Welcome to my Github.
 
